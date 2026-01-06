@@ -1,1 +1,1 @@
-# movida-img
+# images for slack rpa-alerts
